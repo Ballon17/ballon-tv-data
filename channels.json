@@ -1,0 +1,15 @@
+{
+  "categories": [
+    { "id": "2", "name": "قنوات كاس العالم", "sub": "تغطية شاملة للمونديال", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+    { "id": "3", "name": "BEIN SPORT", "sub": "مجموعة بين سبورت كاملة", "img": "https://g.top4top.io/p_3784r8k2z2.png" }
+  ],
+  "channels": {
+    "2": [
+      { "id": "400", "name": "beIN MAX 1", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "411", "name": "World Cup CH 8", "sub": "FOREIGN COVERAGE", "img": "https://l.top4top.io/p_3805kmnv00.jpg" }
+    ],
+    "3": [
+      { "id": "10", "name": "beIN Sports 1", "sub": "HD Quality", "img": "https://g.top4top.io/p_3784r8k2z2.png" }
+    ]
+  }
+}
