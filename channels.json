@@ -1,15 +1,51 @@
 {
   "categories": [
     { "id": "2", "name": "قنوات كاس العالم", "sub": "تغطية شاملة للمونديال", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
-    { "id": "3", "name": "BEIN SPORT", "sub": "مجموعة بين سبورت كاملة", "img": "https://g.top4top.io/p_3784r8k2z2.png" }
+    { "id": "3", "name": "BEIN SPORT", "sub": "مجموعة بين سبورت كاملة", "img": "https://g.top4top.io/p_3784r8k2z2.png" },
+    { "id": "4", "name": "STARZIK", "sub": "باقة الأفلام والمسلسلات", "img": "https://f.top4top.io/p_3644ln4xw1.jpg" },
+    { "id": "5", "name": "MBC SPORT", "sub": "الدوري السعودي والبطولات", "img": "https://c.top4top.io/p_36445ddtq1.jpg" },
+    { "id": "6", "name": "THAMANYA", "sub": "باقة القنوات المنوعة", "img": "https://f.top4top.io/p_3528v327p0.jpg" },
+    { "id": "7", "name": "ALWAN SPORT", "sub": "ترفيه ورياضة مستمرة", "img": "https://l.top4top.io/p_3460ihm660.jpg" },
+    { "id": "8", "name": "GROUPE MBC", "sub": "قنوات MBC بجودة HD", "img": "https://b.top4top.io/p_3790ttwy30.png" },
+    { "id": "9", "name": "FAJR SPORT", "sub": "قنوات الفجر الرياضية", "img": "https://k.top4top.io/p_3278f1v4b0.png" },
+    { "id": "10", "name": "GROUPE Maroc", "sub": "القنوات المغربية الرسمية", "img": "https://c.top4top.io/p_3689rtady0.png" },
+    { "id": "11", "name": "ROTANA", "sub": "باقة روتانا سينما وموسيقى", "img": "https://f.top4top.io/p_3790bh20q0.png" },
+    { "id": "12", "name": "STC SPORT", "sub": "قنوات SSC الرياضية", "img": "https://b.top4top.io/p_37901pxgm0.png" },
+    { "id": "13", "name": "GROUPE ART", "sub": "قنوات الزمن الجميل", "img": "https://k.top4top.io/p_379038ugp0.jpg" },
+    { "id": "14", "name": "ELKASS", "sub": "قنوات الكأس القطرية", "img": "https://j.top4top.io/p_3792hr5pp0.png" },
+    { "id": "15", "name": "BEIN GROUPE", "sub": "باقة ترفيهية متكاملة", "img": "https://c.top4top.io/p_3792hw72i0.jpg" },
+    { "id": "16", "name": "SHAHID", "sub": "محتوى شاهد VIP حصرياً", "img": "https://a.top4top.io/p_3792sb27n0.jpg" },
+    { "id": "17", "name": "BEINSPORT FR", "sub": "النسخة الفرنسية الأصلية", "img": "https://g.top4top.io/p_3784r8k2z2.png" },
+    { "id": "18", "name": "ABUDHABI", "sub": "قنوات أبوظبي الرياضية", "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Abu_Dhabi_TV_logo_2023.png" },
+    { "id": "21", "name": "القرآن الكريم ", "sub": "إذاعات وقنوات دينية 24h", "img": "https://l.top4top.io/p_3689ff2q50.jpg" }
   ],
   "channels": {
     "2": [
       { "id": "400", "name": "beIN MAX 1", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "401", "name": "beIN MAX 2", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "402", "name": "beIN MAX 3", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "403", "name": "beIN MAX 4", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "404", "name": "beIN MAX 5", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "405", "name": "beIN MAX 6", "sub": "LIVE - 4K QUALITY", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "406", "name": "World Cup français", "sub": "WORLD CUP CHANNEL", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "407", "name": "World Cup ENG", "sub": "WORLD CUP CHANNEL", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "408", "name": "World Cup esp", "sub": "FOREIGN COVERAGE", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "409", "name": "World Cup ARABIC WEB", "sub": "FOREIGN COVERAGE", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
+      { "id": "410", "name": "World Cup CH por", "sub": "FOREIGN COVERAGE", "img": "https://l.top4top.io/p_3805kmnv00.jpg" },
       { "id": "411", "name": "World Cup CH 8", "sub": "FOREIGN COVERAGE", "img": "https://l.top4top.io/p_3805kmnv00.jpg" }
     ],
     "3": [
-      { "id": "10", "name": "beIN Sports 1", "sub": "HD Quality", "img": "https://g.top4top.io/p_3784r8k2z2.png" }
+      { "id": "301", "name": "beIN Sports 1 HD", "sub": "LIVE SPORTS", "img": "https://g.top4top.io/p_3784r8k2z2.png" },
+      { "id": "302", "name": "beIN Sports 2 HD", "sub": "LIVE SPORTS", "img": "https://g.top4top.io/p_3784r8k2z2.png" },
+      { "id": "303", "name": "beIN Sports 3 HD", "sub": "LIVE SPORTS", "img": "https://g.top4top.io/p_3784r8k2z2.png" }
+    ],
+    "18": [
+      { "id": "181", "name": "AD Sports 1", "sub": "HD QUALITY", "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Abu_Dhabi_TV_logo_2023.png" },
+      { "id": "182", "name": "AD Sports 2", "sub": "HD QUALITY", "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Abu_Dhabi_TV_logo_2023.png" }
+    ],
+    "21": [
+      { "id": "901", "name": "قناة القرآن الكريم", "sub": "مباشر من مكة", "img": "https://l.top4top.io/p_3689ff2q50.jpg" },
+      { "id": "902", "name": "قناة السنة النبوية", "sub": "مباشر من المدينة", "img": "https://l.top4top.io/p_3689ff2q50.jpg" }
     ]
   }
 }
